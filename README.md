@@ -1,2 +1,4 @@
 # IDAO-2020
-Our Solution for the Online Stage of the <a href="https://idao.world/">International Data Analysis Olympiad 2020</a>.
+The Solution for the Online Stage of the <a href="https://idao.world/">International Data Analysis Olympiad 2020</a> of Bossanova Baby team. The Solution was in top-35 in Track A.
+
+Our approach included using Linear Regression and Extra Trees for each sattelite and creating time series and physical features.
