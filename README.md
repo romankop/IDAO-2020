@@ -3,4 +3,5 @@ The Solution for the Online Stage of the <a href="https://idao.world/">Internati
 
 Team included <a href="https://github.com/Iliaavilov">Ilia Avilov</a>.
 
-Our approach included using Linear Regression and Extra Trees for each sattelite and creating time series and physical features.
+Our task was to increase the accuracy of simulation model defining the location of space objects (satellites). 
+Our approach included using Linear Regression and Extra Trees for each satellite and creating time series and physical features.
