@@ -1,5 +1,5 @@
 # IDAO-2020
-The Solution for the Online Stage of the <a href="https://idao.world/">International Data Analysis Olympiad 2020</a> of Bossanova Baby team. The Solution was in top-35 in Track A.
+The Solution for the Online Stage of the <a href="https://idao.world/">International Data Analysis Olympiad 2020</a> of Bossanova Babies team. The Solution was in top-35 in Track A.
 
 Team included <a href="https://github.com/Iliaavilov">Ilia Avilov</a>.
 
